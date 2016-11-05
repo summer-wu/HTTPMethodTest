@@ -12,4 +12,8 @@
 #Delete请求收不到的解决方式
 
 1、改成post或get请求
+
 2、改成https连接
+
+#在日本发DELETE请求的截图
+![在日本发DELETE请求](https://cloud.githubusercontent.com/assets/2476434/20028304/d1f36c16-a368-11e6-99b0-979b9e045bcf.JPG)
