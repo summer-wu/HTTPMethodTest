@@ -28,7 +28,7 @@
     [self.toolbar0 sizeToFit];
     self.toolbar0.centerX = self.view.width*0.5;
 
-    self.tf0.text = @"http://onetake.dafork.com/api/v2/users/flypig/photos";
+    self.tf0.text = @"http://baidu.com";//可以手动修改为https://baidu.com 
     self.tf0.top = self.toolbar0.bottom;
     self.tf0.height = 44;
     self.tf0.left = 0;
